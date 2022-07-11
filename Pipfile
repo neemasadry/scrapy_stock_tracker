@@ -4,15 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-shub = "*"
 scrapy = "*"
-sqlalchemy = "*"
-alembic = "*"
 scrapy-splash = "*"
 inflect = "*"
-pillow = "*"
 feedparser = "*"
-psycopg2 = "*"
+influxdb-client = {extras = ["async"], version = "*"}
+aiohttp = "*"
 
 [dev-packages]
 
