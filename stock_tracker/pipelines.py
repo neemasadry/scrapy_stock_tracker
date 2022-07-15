@@ -11,7 +11,7 @@
 # 1. parse a CSV file that contains stock tickers, prices, sources, and dates
 # 2. send organized data to a bucket in InfluxDB
 
-import scrapy, os, sys
+import scrapy, os, sys, csv
 from datetime import datetime
 from mimetypes import guess_extension
 from pathlib import Path
@@ -20,10 +20,8 @@ from scrapy.utils.project import get_project_settings
 from scrapy.pipelines.images import ImagesPipeline
 from scrapy.exceptions import DropItem
 from urllib.parse import urlsplit
-from models import *
-import influxdb_client
+from influxdb_client import InfluxDBClient, Point, WritePrecision
 from influxdb_client.client.write_api import SYNCHRONOUS
-from influxdb_client.client.write_api import ASYNCHRONOUS
 
 # You can generate an API token from the "API Tokens Tab" in the UI
 bucket = "stocks_recent"
