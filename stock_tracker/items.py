@@ -13,14 +13,13 @@ from unicodedata import normalize
 def strip_whitespace(value):
     return value.strip()
 
-def remove_quotations(value):
-    return value.replace('"', '')
-
 class StockTrackerItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     ticker_symbol = scrapy.Field(input_processor = MapCompose(remove_tags, replace_escape_chars, replace_entities, strip_whitespace), output_processor = TakeFirst())
-    company_name = scrapy.Field(input_processor = MapCompose(remove_tags, replace_escape_chars, replace_entities, strip_whitespace, remove_quotations), output_processor = TakeFirst())
-    current_time = scrapy.Field()
+    company_name = scrapy.Field(input_processor = MapCompose(remove_tags, replace_escape_chars, replace_entities, strip_whitespace), output_processor = TakeFirst())
     stock_price = scrapy.Field(input_processor = MapCompose(remove_tags, replace_escape_chars, replace_entities, strip_whitespace), output_processor = TakeFirst())
+    trade_volume = scrapy.Field(input_processor = MapCompose(remove_tags, replace_escape_chars, replace_entities, strip_whitespace), output_processor = TakeFirst())
+    current_time = scrapy.Field()
+    
 

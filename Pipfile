@@ -10,6 +10,7 @@ inflect = "*"
 feedparser = "*"
 influxdb-client = {extras = ["async"], version = "*"}
 aiohttp = "*"
+schedule = "*"
 
 [dev-packages]
 

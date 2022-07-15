@@ -1,51 +1,51 @@
-company_name,current_time,stock_price,ticker_symbol
-"Advanced Micro Devices, Inc.",2022-07-14 12:13:24,77.47,AMD
-"Ginkgo Bioworks Holdings, Inc.",2022-07-14 12:13:24,3.0550,DNA
-AT&T Inc.,2022-07-14 12:13:24,20.19,T
-"Twitter, Inc.",2022-07-14 12:13:24,36.40,TWTR
-Wells Fargo & Company,2022-07-14 12:13:24,38.51,WFC
-Unity Software Inc.,2022-07-14 12:13:24,32.93,U
-"Annaly Capital Management, Inc.",2022-07-14 12:13:24,6.09,NLY
-Energy Transfer LP,2022-07-14 12:13:24,9.59,ET
-Microsoft Corporation,2022-07-14 12:13:24,251.51,MSFT
-B2Gold Corp.,2022-07-14 12:13:24,3.1709,BTG
-Shopify Inc.,2022-07-14 12:13:25,30.86,SHOP
-Occidental Petroleum Corporation,2022-07-14 12:13:25,57.08,OXY
-Freeport-McMoRan Inc.,2022-07-14 12:13:25,25.17,FCX
-"Affirm Holdings, Inc.",2022-07-14 12:13:25,22.56,AFRM
-Credit Suisse Group AG,2022-07-14 12:13:25,5.13,CS
-Intel Corporation,2022-07-14 12:13:25,36.97,INTC
-Yamana Gold Inc.,2022-07-14 12:13:25,4.5650,AUY
-Taiwan Semiconductor Manufacturing Company Limited,2022-07-14 12:13:25,82.41,TSM
-Gerdau S.A.,2022-07-14 12:13:25,4.0900,GGB
-Citigroup Inc.,2022-07-14 12:13:25,43.72,C
-"Meta Platforms, Inc.",2022-07-14 12:13:26,158.31,META
-"Healthcare Trust of America, Inc.",2022-07-14 12:13:26,28.86,HTA
-Cleveland-Cliffs Inc.,2022-07-14 12:13:26,14.62,CLF
-"Novavax, Inc.",2022-07-14 12:13:26,53.71,NVAX
-Snap Inc.,2022-07-14 12:13:26,13.42,SNAP
-Exxon Mobil Corporation,2022-07-14 12:13:26,82.32,XOM
-Grab Holdings Limited,2022-07-14 12:13:26,2.5150,GRAB
-JPMorgan Chase & Co.,2022-07-14 12:13:26,107.35,JPM
-Kinross Gold Corporation,2022-07-14 12:13:26,3.1150,KGC
-Southwestern Energy Company,2022-07-14 12:13:26,5.59,SWN
-Alibaba Group Holding Limited,2022-07-14 12:13:26,103.21,BABA
-Palantir Technologies Inc.,2022-07-14 12:13:27,9.01,PLTR
-Nokia Oyj,2022-07-14 12:13:27,4.4200,NOK
-"Tesla, Inc.",2022-07-14 12:13:27,702.41,TSLA
-Carnival Corporation & plc,2022-07-14 12:13:27,8.79,CCL
-Ford Motor Company,2022-07-14 12:13:27,11.28,F
-Roblox Corporation,2022-07-14 12:13:27,37.64,RBLX
-Barrick Gold Corporation,2022-07-14 12:13:27,15.60,GOLD
-NVIDIA Corporation,2022-07-14 12:13:27,150.46,NVDA
-Vale S.A.,2022-07-14 12:13:27,12.52,VALE
-"AMC Entertainment Holdings, Inc.",2022-07-14 12:13:27,15.50,AMC
-American Airlines Group Inc.,2022-07-14 12:13:27,14.31,AAL
-Ambev S.A.,2022-07-14 12:13:28,2.6650,ABEV
-NIO Inc.,2022-07-14 12:13:28,20.86,NIO
-Bank of America Corporation,2022-07-14 12:13:28,29.99,BAC
-Apple Inc.,2022-07-14 12:13:28,146.86,AAPL
-Banco Bradesco S.A.,2022-07-14 12:13:29,2.9750,BBD
-"Amazon.com, Inc.",2022-07-14 12:13:29,108.98,AMZN
-ironSource Ltd.,2022-07-14 12:13:29,3.4150,IS
-Itaú Unibanco Holding S.A.,2022-07-14 12:13:30,4.0000,ITUB
+company_name,current_time,stock_price,ticker_symbol,trade_volume
+"Advanced Micro Devices, Inc.",2022-07-15 11:12:41,79.86,AMD,"33,957,055"
+Credit Suisse Group AG,2022-07-15 11:12:42,5.24,CS,"8,329,683"
+"Meta Platforms, Inc.",2022-07-15 11:12:42,162.70,META,"8,478,115"
+Southwestern Energy Company,2022-07-15 11:12:42,5.57,SWN,"7,516,121"
+Barrick Gold Corporation,2022-07-15 11:12:42,15.53,GOLD,"8,524,025"
+Grab Holdings Limited,2022-07-15 11:12:42,2.4150,GRAB,"8,604,546"
+Intel Corporation,2022-07-15 11:12:42,38.24,INTC,"8,591,166"
+"Micron Technology, Inc.",2022-07-15 11:12:42,60.71,MU,"8,158,891"
+"Uber Technologies, Inc.",2022-07-15 11:12:42,20.99,UBER,"8,920,595"
+Kinross Gold Corporation,2022-07-15 11:12:42,3.0450,KGC,"9,260,021"
+Nokia Oyj,2022-07-15 11:12:42,4.5850,NOK,"9,494,844"
+Freeport-McMoRan Inc.,2022-07-15 11:12:42,25.68,FCX,"8,630,258"
+"Banco Santander, S.A.",2022-07-15 11:12:43,2.3850,SAN,"9,765,468"
+Lloyds Banking Group plc,2022-07-15 11:12:43,1.9850,LYG,"9,138,085"
+Shopify Inc.,2022-07-15 11:12:43,30.87,SHOP,"10,061,779"
+DraftKings Inc.,2022-07-15 11:12:43,12.21,DKNG,"10,309,658"
+Norwegian Cruise Line Holdings Ltd.,2022-07-15 11:12:43,11.56,NCLH,"6,526,619"
+AT&T Inc.,2022-07-15 11:12:43,20.50,T,"6,308,208"
+JPMorgan Chase & Co.,2022-07-15 11:12:43,111.72,JPM,"6,670,230"
+Petróleo Brasileiro S.A. - Petrobras,2022-07-15 11:12:43,11.11,PBR,"7,003,099"
+Occidental Petroleum Corporation,2022-07-15 11:12:43,57.82,OXY,"7,168,877"
+"Novavax, Inc.",2022-07-15 11:12:44,50.93,NVAX,"6,785,728"
+"SoFi Technologies, Inc.",2022-07-15 11:12:44,6.05,SOFI,"6,696,000"
+"Ginkgo Bioworks Holdings, Inc.",2022-07-15 11:12:44,2.9750,DNA,"7,118,702"
+"Tesla, Inc.",2022-07-15 11:12:44,718.17,TSLA,"11,206,819"
+"AMC Entertainment Holdings, Inc.",2022-07-15 11:12:44,15.03,AMC,"10,722,542"
+Gerdau S.A.,2022-07-15 11:12:44,4.2679,GGB,"7,529,014"
+Vale S.A.,2022-07-15 11:12:44,12.64,VALE,"12,476,090"
+Vonage Holdings Corp.,2022-07-15 11:12:44,20.97,VG,"11,325,922"
+Microsoft Corporation,2022-07-15 11:12:44,258.97,MSFT,"11,385,239"
+Roblox Corporation,2022-07-15 11:12:45,37.84,RBLX,"12,287,245"
+ironSource Ltd.,2022-07-15 11:12:45,3.3600,IS,"12,652,321"
+Snap Inc.,2022-07-15 11:12:45,13.72,SNAP,"13,928,827"
+Ambev S.A.,2022-07-15 11:12:45,2.7000,ABEV,"11,854,690"
+Banco Bradesco S.A.,2022-07-15 11:12:45,3.0550,BBD,"13,447,635"
+American Airlines Group Inc.,2022-07-15 11:12:45,14.38,AAL,"14,847,554"
+Wells Fargo & Company,2022-07-15 11:12:45,41.40,WFC,"16,356,567"
+Palantir Technologies Inc.,2022-07-15 11:12:45,8.86,PLTR,"14,789,502"
+NVIDIA Corporation,2022-07-15 11:12:46,156.01,NVDA,"16,460,654"
+Carnival Corporation & plc,2022-07-15 11:12:46,8.96,CCL,"18,733,011"
+Ford Motor Company,2022-07-15 11:12:46,11.70,F,"18,500,774"
+Alibaba Group Holding Limited,2022-07-15 11:12:46,100.20,BABA,"18,100,474"
+Bank of America Corporation,2022-07-15 11:12:46,31.64,BAC,"24,488,177"
+Itaú Unibanco Holding S.A.,2022-07-15 11:12:46,4.1600,ITUB,"22,261,001"
+"Pinterest, Inc.",2022-07-15 11:12:46,19.90,PINS,"20,697,904"
+NIO Inc.,2022-07-15 11:12:46,20.30,NIO,"23,454,880"
+Plug Power Inc.,2022-07-15 11:12:47,15.08,PLUG,"27,029,119"
+"Amazon.com, Inc.",2022-07-15 11:12:47,114.00,AMZN,"28,424,205"
+Citigroup Inc.,2022-07-15 11:12:47,48.82,C,"33,597,999"
+Apple Inc.,2022-07-15 11:12:47,149.38,AAPL,"28,822,900"
